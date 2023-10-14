@@ -1,0 +1,155 @@
+.image-1-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1700px;
+    height: 891px;
+    object-fit: cover;
+  }
+  .tms-dashboard {
+    position: absolute;
+    top: 29px;
+    left: 39px;
+    font-size: 50px;
+    font-weight: 700;
+  }
+  .taj-child {
+    position: absolute;
+    top: 891px;
+    left: 0;
+    background-color: var(--color-gray-100);
+    box-shadow: 0 4px 50px rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 1700px;
+    height: 903px;
+  }
+  .delhi {
+    top: 1372px;
+    left: 612px;
+  }
+  .agra,
+  .delhi,
+  .india,
+  .the-taj-mahal {
+    position: absolute;
+    font-weight: 700;
+  }
+  .the-taj-mahal {
+    top: 956px;
+    left: 376px;
+    display: inline-block;
+    width: 688px;
+    height: 107px;
+  }
+  .agra,
+  .india {
+    top: 1128px;
+    left: 619px;
+  }
+  .india {
+    top: 1603px;
+    left: 597px;
+  }
+  .taj-item {
+    position: absolute;
+    top: 1781px;
+    left: 0;
+    background-color: var(--color-gray-100);
+    width: 1700px;
+    height: 803px;
+  }
+  .image-2-icon {
+    position: absolute;
+    top: 1838px;
+    left: 149px;
+    width: 1118px;
+    height: 606px;
+    object-fit: cover;
+  }
+  .con,
+  .pl,
+  .sign {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: var(--color-cornflowerblue);
+    position: absolute;
+    top: 29px;
+    left: 981px;
+    border-radius: var(--br-81xl);
+    width: 108px;
+    height: 45px;
+    transition: 0.3s;
+  }
+  .con:hover{
+    background-color: white;
+  }
+  .pl:hover{
+    background-color: white;
+  }
+  .sign:hover{
+    background-color: white;
+    
+  }
+  .con,
+  .sign {
+    left: 1123px;
+  }
+  .sign {
+    left: 1265px;
+  }
+  .plan {
+    left: 1006px;
+    display: inline-block;
+    width: 70px;
+    height: 30px;
+  }
+  .contact,
+  .plan,
+  .sign-out {
+    position: absolute;
+    top: 36px;
+    font-size: var(--font-size-6xl);
+    font-weight: 700;
+    color: var(--color-black);
+    transition: 0.3s;
+  }
+  .contact:hover{
+    color: white;
+  }
+  .plan:hover{
+    color:white;
+  }
+  .sign-out {
+    left: 1265px;
+    display: inline-block;
+    width: 99px;
+    height: 30px;
+    transition: 0.3s;
+  }
+  .sign-out:hover{
+    color:white;
+  }
+  .contact {
+    left: 1132px;
+  }
+  .image-3-icon {
+    position: absolute;
+    top: 2459px;
+    left: 653px;
+    width: 110px;
+    height: 107px;
+    object-fit: cover;
+  }
+  .taj {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 2584px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-71xl);
+    color: var(--color-white);
+    font-family: var(--font-inria-serif);
+  }

@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inria-serif: "Inria Serif";
+    --font-league-spartan: "League Spartan";
+  
+    /* font sizes */
+    --font-size-6xl: 25px;
+    --font-size-71xl: 90px;
+    --font-size-21xl: 40px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-cornflowerblue: #86abff;
+    --color-gray-100: #242a36;
+  
+    /* border radiuses */
+    --br-81xl: 100px;
+  }
+  
